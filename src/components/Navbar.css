@@ -1,0 +1,43 @@
+.navbar{
+    height: 75px;
+    background-color: #ffe475;
+    display: flex;
+    align-items: center;
+}
+
+.wrapper{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title{
+    margin-left: 10px;
+}
+
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.login{
+    padding: 5px 9px;
+    display: flex;
+    align-items: center;
+    margin: 1px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    margin-right: 20px;
+}
+
+.cart{
+    padding: 5px 15px;
+    display: flex;
+    align-items: center;
+    margin: 1px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    margin-right: 20px;
+}

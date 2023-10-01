@@ -1,0 +1,22 @@
+.home{
+    margin: 0;
+    padding: 0;
+}
+
+
+.home-container{
+    display: flex;
+}
+
+.item{
+}
+
+.container_sidebar{
+
+}
+
+.container_item{
+    margin-left: 40px;
+    display: flex;
+    flex-flow: column;
+}

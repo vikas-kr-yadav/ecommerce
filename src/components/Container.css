@@ -1,0 +1,8 @@
+.container_wrapper{
+    display: flex;
+}
+
+h2{
+    margin: 10px;
+    padding: 10px;
+}
