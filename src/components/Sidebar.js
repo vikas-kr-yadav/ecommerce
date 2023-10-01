@@ -5,7 +5,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 const Sidebar = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='ecommerce'>
     <div className="sidebar">
         <div className='menu'>
             
@@ -32,8 +32,7 @@ const Sidebar = () => {
                     <li><Link to="#Frozen" className="no-underline">Frozen</Link></li>
                     <li><Link to="#Meat & Seafood" className="no-underline">Meat & Seafood</Link></li>
                 </ul>
-
-                
+  
         </div>
         <div className='slider'>
                 <div className='slider-inner'></div></div>
