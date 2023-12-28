@@ -41,3 +41,12 @@
     background-color: aliceblue;
     margin-right: 20px;
 }
+
+.size{
+    color: red;
+}
+
+
+.cart span:nth-child(2){
+    color: red;
+}
